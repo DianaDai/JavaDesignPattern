@@ -1,4 +1,4 @@
-1111
+
 # JavaDesignP1attern
 设计模式在java中的应用示例代码
 
